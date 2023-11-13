@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goelharsh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate with Product Based Complanies
+- 💞️ I’m looking to collaborate with growing companies.
 
 
 <!---
