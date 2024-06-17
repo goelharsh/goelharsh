@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goelharsh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in Full Stack Development (MERN)
+- 🌱 I’m currently learning Next.js and TypeScript
 - 💞️ I’m looking to collaborate with growing companies.
 
 
